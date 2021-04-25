@@ -87,10 +87,6 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_BUILD_SUPER_PARTITION := false
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
-# Recorder
-PRODUCT_PACKAGES += \
-    OPScreenRecorder
-
 # Recovery
 PRODUCT_PACKAGES += \
     fastbootd
