@@ -16,7 +16,6 @@ $(call inherit-product, vendor/havoc/config/common_full_phone.mk)
 
 HAVOC_BUILD_TYPE := Unofficial
 TARGET_BOOT_ANIMATION_RES := 1080
-TARGET_SUPPORTS_GOOGLE_RECORDER := true
 WITH_GAPPS := true
 EXTRA_FOD_ANIMATIONS := true
 
