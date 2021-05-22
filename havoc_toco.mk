@@ -14,7 +14,7 @@ $(call inherit-product, device/xiaomi/toco/device.mk)
 # Inherit some common Havoc stuff.
 $(call inherit-product, vendor/havoc/config/common_full_phone.mk)
 
-HAVOC_BUILD_TYPE := Unofficial
+HAVOC_BUILD_TYPE := Official
 TARGET_BOOT_ANIMATION_RES := 1080
 EXTRA_FOD_ANIMATIONS := true
 
