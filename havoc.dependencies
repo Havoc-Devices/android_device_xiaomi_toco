@@ -21,7 +21,7 @@
         "remote":       "github",
         "repository":   "AndroidHQ254/vendor_xiaomi",
         "target_path":  "vendor/xiaomi",
-        "revision":     "11"
+        "revision":     "hw"
     },
     {
         "remote":       "github",
