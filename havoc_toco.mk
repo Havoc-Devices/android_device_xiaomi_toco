@@ -15,8 +15,10 @@ $(call inherit-product, device/xiaomi/toco/device.mk)
 $(call inherit-product, vendor/havoc/config/common_full_phone.mk)
 
 HAVOC_BUILD_TYPE := Official
+HAVOC_MAINTAINER := Dennis Murimi (AndroidHQ254)
+HAVOC_GROUP_URL := https://t.me/havoc_toco
+
 TARGET_BOOT_ANIMATION_RES := 1080
-EXTRA_FOD_ANIMATIONS := true
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := havoc_toco
