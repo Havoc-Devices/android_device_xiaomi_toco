@@ -1,24 +1,25 @@
 [
     {
-        "repository":   "device_xiaomi_sm6150-common-toco",
+        "repository":   "android_device_xiaomi_toco-common",
         "target_path":  "device/xiaomi/sm6150-common"
     },
     {
-        "repository":   "kernel_xiaomi_sm6150",
+        "repository":   "android_kernel_xiaomi_toco",
         "target_path":  "kernel/xiaomi/sm6150",
         "branch":       "eleven"
     },
     {
+        "remote":       "devs-priv",
         "repository":   "android_hardware_xiaomi",
         "target_path":  "hardware/xiaomi"
     },
     {
-        "repository":   "vendor_xiaomi",
+        "repository":   "android_vendor_xiaomi_toco",
         "target_path":  "vendor/xiaomi",
         "branch":       "eleven"
     },
     {
-        "repository":   "vendor_xiaomi_google",
+        "repository":   "android_vendor_xiaomi_google",
         "target_path":  "vendor/xiaomi/google"
     }
 ]
