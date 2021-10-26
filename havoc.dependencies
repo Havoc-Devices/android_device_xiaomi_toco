@@ -9,11 +9,6 @@
         "branch":       "eleven"
     },
     {
-        "remote":       "devs-priv",
-        "repository":   "android_hardware_xiaomi",
-        "target_path":  "hardware/xiaomi"
-    },
-    {
         "repository":   "android_vendor_xiaomi_toco",
         "target_path":  "vendor/xiaomi",
         "branch":       "eleven"
