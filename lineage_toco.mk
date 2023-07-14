@@ -23,6 +23,10 @@ HAVOC_GROUP_URL := https://t.me/havoc_toco
 
 TARGET_BOOT_ANIMATION_RES := 1080
 
+TARGET_ENABLE_BLUR := true
+TARGET_FACE_UNLOCK_SUPPORTED := true
+TARGET_SUPPORTS_QUICK_TAP := true
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := lineage_toco
 PRODUCT_DEVICE := toco
